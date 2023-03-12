@@ -3,7 +3,7 @@
 ## Collaborators :
 - Aniket Jain
 - Arin Jain
-- Rajneesh Jain
+- Rajneesh Kushwaha
 - Sanyam Jain
 
 ## Training and Placement Cell Management 
